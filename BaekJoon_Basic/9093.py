@@ -1,3 +1,5 @@
+#리스트를 문자열로 일정하게 합쳐주기 -> join
+#'구분자'.join(리스트)
 import sys
 num = int(sys.stdin.readline())
 
