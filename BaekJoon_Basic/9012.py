@@ -1,3 +1,4 @@
+#sys.stdin.readline() 시, \n 포함되어 글자수 하나 늘어남. 주의
 import sys
 num = int(sys.stdin.readline())
 for _ in range(num):
