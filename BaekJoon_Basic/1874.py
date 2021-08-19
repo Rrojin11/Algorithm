@@ -31,5 +31,3 @@ if check == True:
         print(k)
 else:
     print('NO')
-
-
