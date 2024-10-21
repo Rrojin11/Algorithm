@@ -6,6 +6,7 @@
 #2) pop : 해당 인덱스 값 삭제 후 삭제한 값 반환 ex. s.pop()  = s.pop(-1)
 #3) remove : 해당 요소 검색 후 제일 처음 값 삭제 ex. s.remove('Bob')
 #4) del : 해당 인덱스 혹은 범위 삭제 ex. del s[3],  del s[2:5]
+
 import sys
 num = int(sys.stdin.readline())
 s = []
