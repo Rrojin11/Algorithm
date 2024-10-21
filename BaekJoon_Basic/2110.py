@@ -6,7 +6,6 @@ array.sort()
 
 start, end = 1, max(array) - min(array)
 
-
 def check(val):
   now = 1
   tmp = 1
@@ -17,7 +16,6 @@ def check(val):
       prev = now
     now += 1
   return tmp
-
 
 result = 0
 while start <= end:
