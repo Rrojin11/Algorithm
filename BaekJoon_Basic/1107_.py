@@ -22,7 +22,6 @@ def possible(c):
         c//=10
     return l
         
-
 ans = abs(target-100)
 for i in range(0,1000000+1):
     c = i
