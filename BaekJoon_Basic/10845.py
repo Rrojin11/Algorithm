@@ -1,6 +1,5 @@
 import sys
 n = int(sys.stdin.readline())
-
 if __name__ == '__main__':
     s = []
     for _ in range(n):
