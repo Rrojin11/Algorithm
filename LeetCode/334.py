@@ -21,5 +21,6 @@ class Solution:
             else:
                 middle = num
 
+        
         # Return False if no increasing triplet is found.
         return False
