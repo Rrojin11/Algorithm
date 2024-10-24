@@ -7,6 +7,7 @@ class BSTIterator(object):
             root = root.left
         
 
+    
     def hasNext(self):
         return len(self.stack) != 0
         
