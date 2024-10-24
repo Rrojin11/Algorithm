@@ -11,5 +11,4 @@ class Solution:
             else:
                 answer+=v
 
-        
         return answer
