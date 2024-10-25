@@ -22,6 +22,7 @@ blocks = (
     ((0,1),(-1,1),(1,1)),
     ((0,1),(0,2),(-1,1)),
 )
+
 ans = 0
 for i in range(n):
     for j in range(m):
