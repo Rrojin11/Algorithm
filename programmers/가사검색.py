@@ -1,6 +1,6 @@
 from bisect import bisect_left, bisect_right
 
-#프로그래머스 가사검색
+#프로그래머스 가사검색x
 def solution(words, queries):
     answers = []
     array = [[] for _ in range(10001)]
