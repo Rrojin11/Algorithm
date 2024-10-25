@@ -1,5 +1,4 @@
 def solution(s):
-    
     n = len(s)
     answer = len(s)
       
